@@ -1,2 +1,1 @@
-language = "nodejs"
-run = "node index"
+console.log("Hello!");    

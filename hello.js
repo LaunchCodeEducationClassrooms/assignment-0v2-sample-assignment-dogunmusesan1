@@ -3,5 +3,6 @@ function hello() {
 	// when you hit the replit run button
 	return "Hello!";
 }
- 
+ console.log("Hello!");
 module.exports = hello;
+console.log("Hello, World!");
